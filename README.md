@@ -1,0 +1,1 @@
+# PokeSprite Stream Elements Plugin
